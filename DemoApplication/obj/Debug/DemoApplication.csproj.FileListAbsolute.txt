@@ -1,0 +1,14 @@
+C:\Users\ahmed\source\Repos\DemoApplication\DemoApplication\bin\Debug\DemoApplication.exe.config
+C:\Users\ahmed\source\Repos\DemoApplication\DemoApplication\bin\Debug\DemoApplication.exe
+C:\Users\ahmed\source\Repos\DemoApplication\DemoApplication\bin\Debug\DemoApplication.pdb
+C:\Users\ahmed\source\Repos\DemoApplication\DemoApplication\bin\Debug\MySql.Data.dll
+C:\Users\ahmed\source\Repos\DemoApplication\DemoApplication\obj\Debug\DemoApplication.Form1.resources
+C:\Users\ahmed\source\Repos\DemoApplication\DemoApplication\obj\Debug\DemoApplication.Properties.Resources.resources
+C:\Users\ahmed\source\Repos\DemoApplication\DemoApplication\obj\Debug\DemoApplication.csproj.GenerateResource.Cache
+C:\Users\ahmed\source\Repos\DemoApplication\DemoApplication\obj\Debug\DemoApplication.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\source\Repos\DemoApplication\DemoApplication\obj\Debug\DemoApplication.exe
+C:\Users\ahmed\source\Repos\DemoApplication\DemoApplication\obj\Debug\DemoApplication.pdb
+C:\Users\ahmed\source\Repos\DemoApplication\DemoApplication\bin\Debug\GenericRepository.dll
+C:\Users\ahmed\source\Repos\DemoApplication\DemoApplication\obj\Debug\DemoApplication.csprojResolveAssemblyReference.cache
+C:\Users\ahmed\source\Repos\DemoApplication\DemoApplication\bin\Debug\DotNetTN.Connector.dll
+C:\Users\ahmed\source\Repos\DemoApplication\DemoApplication\obj\Debug\DemoApplication.ListPersone.resources
